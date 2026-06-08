@@ -58,7 +58,7 @@ Automatic downloading of pretrained weights is disabled. The code expects the fi
 
 ## Datasets
 
-Please obtain the BTMRI and Kvasir datasets yourself and place them under `data/`.
+Please obtain datasets yourself and place them under `data/`.
 
 The required directory structure is:
 
